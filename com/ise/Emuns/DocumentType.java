@@ -4,5 +4,6 @@ public enum DocumentType {
     CONTACT,
     ADDRESS,
     FINANCAL,
-    FAMILY
+    FAMILY,
+    EMERGENCY
 }

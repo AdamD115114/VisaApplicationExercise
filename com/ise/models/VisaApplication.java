@@ -22,5 +22,12 @@ public class VisaApplication implements Application{
         return false;
     }
 
+
+    @Override
+    public boolean delete() {
+        // TODO Auto-generated method stub
+        return false;
+    }
+
     
 }
